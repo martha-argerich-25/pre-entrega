@@ -1,0 +1,12 @@
+[{"id":1,"title":"naranja","description":30,"price":5,"thumbnail":34,"code":234},
+    {"id":2,"title":"melon","description":45,"price":5,"thumbnail":7,"code":934},
+    {"id":3,"title":"frutilla","description":30,"price":5,"thumbnail":34,"code":2374},
+    {"id":4,"title":"sandia","description":45,"price":5,"thumbnail":7,"code":924},
+    {"id":5,"title":"mandarina","description":30,"price":5,"thumbnail":34,"code":245},
+    {"id":6,"title":"manzana","description":30,"price":5,"thumbnail":34,"code":2456},
+    {"id":7,"title":"arandano","description":45,"price":5,"thumbnail":7,"code":9234},
+    {"id":8,"title":"banana","description":30,"price":5,"thumbnail":34,"code":2654},
+    {"id":9,"title":"durazano","description":30,"price":5,"thumbnail":34,"code":223},
+    {"id":10,"title":"coco","description":45,"price":5,"thumbnail":7,"code":9876}
+    
+]
